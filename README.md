@@ -25,16 +25,12 @@ GIT_WORK_TREE=/home/userXX/mysite.com git checkout -f
 -  Workstation: `git push mysite master` this pushes the master branch from your local Repository to your Site.
 
 
-
-
 ##### Note:
 This tutorial is written for general Git deployment to Siteground Sites. If you use a CMS (WP/Drupal....) Siteground has SG-Git and Staging specifically for these taks.
 
 
 
 
-This procedure is based on:
-
+#### This procedure is based on:
 [Caio Vaccaro](https://www.digitalocean.com/community/tutorials/how-to-set-up-automatic-deployment-with-git-with-a-vps)
-
 [Abhijit Menon-Sen ](http://toroid.org/git-website-howto)
