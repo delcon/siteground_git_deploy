@@ -2,7 +2,7 @@
 A Tutorial for deploying to Siteground with Git
 
 ### Prerequisites:
-1. Configure SSH access from your local computer to Siteground. You need to have SSH access from you computer without entering a password. Use PuTTY Authentication Agent. How to do this: [Tutorial](https://www.siteground.com/tutorials/ssh/). 
+1. Configure SSH access from your local computer to Siteground. You need to have SSH access from you computer without entering a password. Use PuTTY Authentication Agent. [Siteground Tutorial](https://www.siteground.com/tutorials/ssh/) on this topic. 
 2. Open the SSH Console. Test you SSH Connection `ssh sitegroundXYZ.biz` and do `ls` and `git --version`. Adjust for your environment. Leave your console open.
 3. Workstation with a local git Repository containig your website to deploy. It does not matter how the repo it is setup.
 4. An empty directory for your public website. For this tutorial we call it `mysite.com` and place it at the root of the Siteground home directory.
